@@ -1,0 +1,15 @@
+/Users/yaroslav/Desktop/GB/C#/Control_work/Trinity_program/obj/Debug/net6.0/Trinity_program.csproj.AssemblyReference.cache
+/Users/yaroslav/Desktop/GB/C#/Control_work/Trinity_program/obj/Debug/net6.0/Trinity_program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaroslav/Desktop/GB/C#/Control_work/Trinity_program/obj/Debug/net6.0/Trinity_program.AssemblyInfoInputs.cache
+/Users/yaroslav/Desktop/GB/C#/Control_work/Trinity_program/obj/Debug/net6.0/Trinity_program.AssemblyInfo.cs
+/Users/yaroslav/Desktop/GB/C#/Control_work/Trinity_program/obj/Debug/net6.0/Trinity_program.csproj.CoreCompileInputs.cache
+/Users/yaroslav/Desktop/GB/C#/Control_work/Trinity_program/bin/Debug/net6.0/Trinity_program
+/Users/yaroslav/Desktop/GB/C#/Control_work/Trinity_program/bin/Debug/net6.0/Trinity_program.deps.json
+/Users/yaroslav/Desktop/GB/C#/Control_work/Trinity_program/bin/Debug/net6.0/Trinity_program.runtimeconfig.json
+/Users/yaroslav/Desktop/GB/C#/Control_work/Trinity_program/bin/Debug/net6.0/Trinity_program.dll
+/Users/yaroslav/Desktop/GB/C#/Control_work/Trinity_program/bin/Debug/net6.0/Trinity_program.pdb
+/Users/yaroslav/Desktop/GB/C#/Control_work/Trinity_program/obj/Debug/net6.0/Trinity_program.dll
+/Users/yaroslav/Desktop/GB/C#/Control_work/Trinity_program/obj/Debug/net6.0/refint/Trinity_program.dll
+/Users/yaroslav/Desktop/GB/C#/Control_work/Trinity_program/obj/Debug/net6.0/Trinity_program.pdb
+/Users/yaroslav/Desktop/GB/C#/Control_work/Trinity_program/obj/Debug/net6.0/Trinity_program.genruntimeconfig.cache
+/Users/yaroslav/Desktop/GB/C#/Control_work/Trinity_program/obj/Debug/net6.0/ref/Trinity_program.dll
